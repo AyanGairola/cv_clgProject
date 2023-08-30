@@ -1,0 +1,98 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+.container {
+    display: flex;
+    flex-direction: column;
+
+}
+
+.header {
+    display: flex;
+    background-color: lightcoral;
+    gap: 10vw;
+   
+    height: 33.8vh;
+
+}
+
+.name {
+    height: 70px;
+    border: 2px solid black;
+    width: 26vw;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin-top: 10vh;
+    margin-left: 22vw;
+
+}
+
+.box-2 {
+    display: flex;
+    height: 60vh;
+
+}
+
+.image {
+    margin-top: 5vh;
+    border: 2px solid black;
+    height: 150px;
+}
+
+ul {
+    list-style: square;
+    padding-left: 1.5vw;
+    
+}
+
+.about {
+    background-color: lightcoral;
+    width: 28vw;
+    display: flex;
+    flex-direction: column;
+
+}
+
+.skill-section{
+    width: 76vw;
+    
+    
+}
+.r1{
+    display: flex;
+    height: 7vh;
+}
+.left3{
+    background-color: white;
+    width: 4vw;
+}   
+.r1-m{
+    background-color: lightcoral;
+    width: 21vw;s
+}
+.r1-l{
+    margin-right: 3.5vw;
+}
+.profile{
+    margin-top: 5vh;    
+    margin-bottom: 2vh;  
+}
+.cnt{
+    margin-top: 3vh;    
+    margin-bottom: 2vh;  
+}
+.education{
+    display: flex;
+    flex-direction: column;
+}
+.edu{
+    margin-top: 2vh;    
+    margin-bottom: 2vh;  
+}
+
+h3{
+    color: rgb(42, 70, 71);
+}
